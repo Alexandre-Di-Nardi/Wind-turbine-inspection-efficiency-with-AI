@@ -18,22 +18,22 @@ conclusion, this work presents the potential of AI-driven solutions to enhance t
 efficiency and maintenance of wind turbine operations contributing to the development of the
 renewable energy sector.
 
-<img src='https://raw.githubusercontent.com/Alexandre_Di-Nardi/text_mining_sentiment_analysis/refs/heads/main/media_per_hour.png' >
+<img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/median_per_hour.png' >
 Median and interquartile range of active power, wind speed and
 wind direction per hour. 
 
-<img src='https://raw.githubusercontent.com/Alexandre_Di-Nardi/text_mining_sentiment_analysis/refs/heads/main/media_per_month.png' >
+<img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/median_per_month.png' >
 Median and interquartile range of active power, wind speed and
 wind direction per month.
 
-<img src='https://raw.githubusercontent.com/Alexandre_Di-Nardi/text_mining_sentiment_analysis/refs/heads/main/power_loss_over_time_histogram.png' >
+<img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/power_loss_over_time_histogram.png' >
 Positive and negative power loss per day (the difference between theoretical power
 and active power) per day (kWh) and histogram of power loss per day.
 
-<img src='https://raw.githubusercontent.com/Alexandre_Di-Nardi/text_mining_sentiment_analysis/refs/heads/main/power_loss_per_day.png' >
+<img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/power_loss_per_day.png' >
 Median and interquartile range of power loss (kWh) per day.
 
-<img src='https://raw.githubusercontent.com/Alexandre_Di-Nardi/text_mining_sentiment_analysis/refs/heads/main/active_power_vs_wind_speed_interval_side_by_side.png' >
+<img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/predicted_vs_true_power.png' >
 Scatter plot and line graph of the relation between wind speed (m/s) and
 active power (kWh).
 
