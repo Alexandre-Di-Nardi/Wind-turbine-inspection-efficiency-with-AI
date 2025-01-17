@@ -19,22 +19,19 @@ efficiency and maintenance of wind turbine operations contributing to the develo
 renewable energy sector.
 
 <img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/median_per_hour.png' >
-Median and interquartile range of active power, wind speed and
-wind direction per hour. 
+Median and interquartile range of active power, wind speed and wind direction per hour. 
 
 <img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/median_per_month.png' >
-Median and interquartile range of active power, wind speed and
-wind direction per month.
+Median and interquartile range of active power, wind speed and wind direction per month.
 
 <img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/power_loss_over_time_histogram.png' >
-Positive and negative power loss per day (the difference between theoretical power
-and active power) per day (kWh) and histogram of power loss per day.
+Positive and negative power loss per day (the difference between theoretical power and active power) per day (kWh) and histogram of power loss per day.
 
 <img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/power_loss_per_day.png' >
 Median and interquartile range of power loss (kWh) per day.
 
 <img src='https://raw.githubusercontent.com/Alexandre-Di-Nardi/Wind-turbine-inspection-efficiency-with-AI/refs/heads/main/predicted_vs_true_power.png' >
-Scatter plot and line graph of the relation between wind speed (m/s) and
-active power (kWh).
+Plot of Predicted vs. True Wind Turbine Power per hour between 20 and 25 November 2018. The predicted values were modelled using the Support Vector Machine
+[SPM] algorithm.
 
 
